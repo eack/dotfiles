@@ -1,0 +1,6 @@
+.netrwhist
+
+# vim-plug
+.config/nvim/autoload/plug.vim
+.config/nvim/plugged
+
